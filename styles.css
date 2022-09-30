@@ -8,8 +8,7 @@ body {
   overflow: hidden;
   position: relative;
 }
-
-.test {
+.marquee {
   display: block;
   left: 0;
   position: absolute;
@@ -23,3 +22,4 @@ svg {
 .logo {
   fill: #fff;
 }
+/* filling logo in with white */
