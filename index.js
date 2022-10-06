@@ -64,9 +64,14 @@
 })(jQuery, window);
 /* jquery is a packege off node that i downloaded*/
 
+/* 
 $(document).ready( function() {
 
 	$('.marquee').marqueeify({
 		
 	});
-});
+}); */ 
+
+
+
+
